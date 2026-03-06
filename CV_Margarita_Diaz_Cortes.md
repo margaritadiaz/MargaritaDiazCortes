@@ -1,6 +1,6 @@
 # Dr. Margarita Diaz Cortes
 
-**📍 Contact:** +34 667541113 · diazcortes.margarita@gmail.com
+**📍 Contact:** diazcortes.margarita@gmail.com
 **🔗 LinkedIn:** [dr-margarita-diaz-cortes](https://www.linkedin.com/in/dr-margarita-diaz-cortes)
 **🆔 Scopus ID:** [51763479900](https://www.scopus.com/authid/detail.uri?authorId=51763479900) · **ORCID:** [0000-0002-7891-8490](https://orcid.org/0000-0002-7891-8490)
 
@@ -12,7 +12,7 @@ AI transformation specialist with 12+ years working at the intersection of scien
 
 ## 💼 Professional Experience
 
-### Lead Science Manager · [Click Therapeutics Inc.](https://www.clicktherapeutics.com) — R&D
+### Lead Science Manager · Click Therapeutics Inc. — R&D
 **Nov 2023 – Present**
 
 - Conceptualize and implement generative AI solutions in digital therapeutics for schizophrenia, cardiometabolic disorders, oncology, and multiple sclerosis.
@@ -58,7 +58,7 @@ Designed and developed diverse generative AI projects, both independently and in
 
 ---
 
-### Part-time Professor · CODE University Berlin — Computer Engineering Faculty
+### Part-time Lecturer · CODE University Berlin — Computer Engineering Faculty
 **Aug 2021 – Feb 2023**
 
 - Delivered undergraduate and graduate courses in Algorithms and Data Structures, and Algorithms Applications (using Python).
